@@ -4,8 +4,8 @@
 
 ``install --global typescript``
 ``npx tsc --init``
-``npx tsc``
-
+``npx tsc`` comando para executar typescript
+``npx tsc --watch`` compilador TS e monitora alterações
 
 **Sobre o Typescript**
 
